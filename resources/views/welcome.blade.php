@@ -39,7 +39,7 @@
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
                     <div class="text-center text-gray-600 dark:text-gray-400">
-                        <embed src="http://www.unisinos.br/modules/mod_padraotopo/img/logo.gif"/>
+                        <embed src="{{ asset("assets/m/i/unisinos.gif") }}"/>
                         <p>Universidade do Vale do Rio dos Sinos - UNISINOS</p>
                         <h3>Análise e Desenvolvimento de Sistemas</h3>
                         <h4>Fundamentos de Redes - M3 / API</h4>
