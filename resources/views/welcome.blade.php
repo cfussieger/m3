@@ -43,6 +43,15 @@
                         <p>Universidade do Vale do Rio dos Sinos - UNISINOS</p>
                         <h3>Análise e Desenvolvimento de Sistemas</h3>
                         <h4>Fundamentos de Redes - M3 / API</h4>
+                        <p>
+                            Cibele Fussieger 
+                            <br/> 
+                            Luís Felipe de Souza da Silva 
+                            <br/> 
+                            Paulo Rangel Manfredini
+                            <br/>  
+                            Juliana Rocha Fernandes
+                        </p>
                     </div>
                 </div>
             </div>
